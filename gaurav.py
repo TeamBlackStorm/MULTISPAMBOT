@@ -5061,7 +5061,7 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
             Bot70.disconnect()
         except Exception as e:
             pass
-        args = [sys.executable, "-m", "Gladiators.py"]
+        args = [sys.executable, "-m", "gaurav.py"]
         os.execl(sys.executable, *args)
         quit()
 
