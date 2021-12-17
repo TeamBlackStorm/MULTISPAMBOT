@@ -2,7 +2,7 @@
 BEST TELEGRAM SPAMMING BOT🤖
 
 <p align="center">
-  <img src="https://telegra.ph/file/8626f33867fc155eaa404.jpg">
+  <img src="https://te.legra.ph/file/f756f7cd925cb729d268b.jpg">
 </p>
 
 
@@ -27,7 +27,7 @@ BEST TELEGRAM SPAMMING BOT🤖
 <a href="https://t.me/THE_VAMPIRE_NETWORK"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 - [𝙶𝙰𝚄𝚁𝙰𝚅🇮🇳](https://t.me/LEGENDXGAURAV)
+## 𝙾𝚆𝙽𝙴𝚁 - [𝙶𝙰𝚄𝚁𝙰𝚅🇮🇳](https://t.me/VAMPIRE_OWNER)
 ## ᴄʀᴇᴅɪᴛ - [ᴘɪᴋᴀᴄʜᴜ](https://t.me/GLADIATORS_PROJECTS) 
 -------------------------------------------------
 
