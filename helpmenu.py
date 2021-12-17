@@ -169,13 +169,13 @@ alive_temxt = f"""
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Projects)
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/THE_VAMPIRE_NETWORK)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Gladiators_Support)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPlRE_Support)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
+╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT)
 ║
-╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER
+╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER) 
 ║
 ╚═════════════════╝
 
@@ -217,7 +217,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPlRE_SUPPORT) 
 ║
-╠═Rᴇᴘᴏsɪᴛ➪ᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT
+╠═Rᴇᴘᴏsɪᴛ➪ᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT) 
 ║
 ╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER) 
 ║
