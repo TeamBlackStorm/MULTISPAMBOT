@@ -40,7 +40,7 @@ i) {hn}packspam (replying to any sticker)
 Syntax:
 i) {hn}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 curse_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -75,7 +75,7 @@ i) {hn}dreplycurse <replying to anyone>
 ii) {hn}dreplycurse <username>
 
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -86,7 +86,7 @@ sudo_menu = f"""
 **{hn}alive**: Check if bot is alive.
 
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 
 dev_menu = f"""
@@ -103,7 +103,7 @@ ii) {hn}leave
 
 **{hn}reboot**: Restarts the bot!(Too fast! **Supersonic**)
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 
 
@@ -134,7 +134,7 @@ i) {hn}join <Private chat's hash>
 Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 
 
@@ -158,7 +158,7 @@ help_menu = f"""
 **Example**: ```{hn}help spamcmds```
 
 
-**©️ @TeamGladiators**
+**©️ @TeamVampires**
 """
 
 alive_temxt = f"""
@@ -175,12 +175,14 @@ alive_temxt = f"""
 ║
 ╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
 ║
+╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER
+║
 ╚═════════════════╝
 
-**[©️]({ALIVE_MEDIA}) @TeamGladiators**
+**[©️]({ALIVE_MEDIA}) @TeamVampires**
 """
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://te.legra.ph/file/f756f7cd925cb729d268b.jpg"
 
 
 start_caption = f"""
@@ -193,7 +195,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
 
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
+**[©️](https://te.legra.ph/file/f756f7cd925cb729d268b.jpg) @TeamVampires**
 """
 
 
@@ -215,9 +217,11 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 ║
 ╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPlRE_SUPPORT) 
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/Gladiators-Projects/spammerbots)
+╠═Rᴇᴘᴏsɪᴛ➪ᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT
+║
+╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER) 
 ║
 ╚═════════════════╝
 
-**[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators**
+**[©️](https://te.legra.ph/file/f756f7cd925cb729d268b.jpg) @TeamVampires**
 """
