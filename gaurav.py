@@ -3701,7 +3701,7 @@ async def gtping(e):
         ping_end = datetime.now()
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - StartTime) * 1000)
-        ping_msg = f"•• Pᴏɴɢ . ••\n⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
+        ping_msg = f"█▀█ █▀█ █▄░█ █▀▀\n█▀▀ █▄█ █░▀█ █▄█\n\n🧛‍♂ᴠᴀᴍᴘɪʀᴇ sᴘᴀᴍʙᴏᴛ🧛‍♂ `{ms}`ᴍs"
         await v.edit(ping_msg)
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hn))
